@@ -172,6 +172,20 @@
              style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
             Kunjungi YouTube
             </a><br>
+    <div class="row">
+        <div class="service-item padd-15">
+          <div class="service-item-inner">
+            <!-- <div class="icon">
+              <i class="fas fa-user-tie"></i>
+            </div> -->
+            <img src="tugas 6.PNG" alt="Foto Tokoh" style="width: 200px; height: 120px; border-radius: 10px;">
+            <h4>TUGAS 6</h4>
+            <p><b><i>CLIPPING.</i></b></p><br>
+            <p style="text-align: center;">TUGAS CLIPPING.</p>
+            <a href="https://docs.google.com/spreadsheets/d/1FA4vAyJ47IlD2yIox3SJN5h-2ShI3UYBGKq8PBFi08U/edit?usp=sharing" target="_blank" 
+             style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
+            Kunjungi LINK
+            </a><br>
     <script>
         function showMessage() {
             alert("Terima kasih telah mengunjungi portofolio saya!");
