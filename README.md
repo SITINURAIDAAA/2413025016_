@@ -186,6 +186,48 @@
              style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
             Kunjungi LINK
             </a><br>
+    <div class="row">
+        <div class="service-item padd-15">
+          <div class="service-item-inner">
+            <!-- <div class="icon">
+              <i class="fas fa-user-tie"></i>
+            </div> -->
+            <img src="latihan cohen clip.jpeg" alt="Foto Tokoh" style="width: 200px; height: 120px; border-radius: 10px;">
+            <h4>TUGAS LATIHAN COHEN CLIP</h4>
+            <p><b><i>CLIPPING.</i></b></p><br>
+            <p style="text-align: center;">Cohen clipping (Algoritma Cohen-Sutherland) adalah algoritma yang digunakan untuk memotong garis atau objek dalam ruang tampilan.</p>
+            <a href="https://youtu.be/XJfPCtORoE8?si=FloGEaqP1guCMyOs" target="_blank" 
+             style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
+            Kunjungi YouTube
+            </a><br>
+        <div class="row">
+        <div class="service-item padd-15">
+          <div class="service-item-inner">
+            <!-- <div class="icon">
+              <i class="fas fa-user-tie"></i>
+            </div> -->
+            <img src="polygon.jpeg" alt="Foto Tokoh" style="width: 200px; height: 120px; border-radius: 10px;">
+            <h4>CLIPPING POLYGON T7</h4>
+            <p><b><i>CLIPPING.</i></b></p><br>
+            <p style="text-align: center;">Clipping polygon adalah proses pemotongan sebuah poligon (bangun datar yang dibatasi oleh garis lurus) sehingga hanya bagian yang berada di dalam area yang diinginkan yang ditampilkan, sementara bagian yang berada di luar akan disembunyikan. </p>
+            <a href="https://youtu.be/_WjGkiM2ECk?si=hMtyTge8Vnwem97D" target="_blank" 
+             style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
+            Kunjungi YouTube
+            </a><br>
+            <div class="row">
+        <div class="service-item padd-15">
+          <div class="service-item-inner">
+            <!-- <div class="icon">
+              <i class="fas fa-user-tie"></i>
+            </div> -->
+            <img src="PERSAMAAN.PNG" alt="Foto Tokoh" style="width: 200px; height: 120px; border-radius: 10px;">
+            <h4>PERSAMAAN MISTERI</h4>
+            <p><b><i>Persamaan T8</i></b></p><br>
+            <p style="text-align: center;"> memvisualisasikan persamaan implisit (𝑥2+𝑦2−1)3=𝑥2𝑦3(x2+y2−1)3=x2y3 menggunakan pemrograman JavaScript dalam konteks grafika komputer, di mana persamaan tersebut dipetakan ke bidang koordinat layar melalui HTML Canvas dengan pendekatan numerik. </p>
+            <a href="file:///C:/Users/NUR%20AIDA/Documents/GRAFKOM/CODING%20PERSAMAAN%20MISTERI.html" target="_blank" 
+             style="display:inline-block; background-color:#53a4bd; color:#fff; padding:10px 20px; margin:8px 0; text-decoration:none; border-radius:8px; font-weight:bold;">
+            Kunjungi 
+            </a><br>
     <script>
         function showMessage() {
             alert("Terima kasih telah mengunjungi portofolio saya!");
